@@ -54,10 +54,10 @@ the Deafult password is UserName: kali And Password :kali.  After logging in to 
 
 ## OUTPUT :
 
-![1](img/Screenshot_2025-02-26_03_16_59.png)
+![Screenshot 2025-03-12 212926](https://github.com/user-attachments/assets/4770324f-a43f-4859-b5c6-7f738bee5d8b)
 
 
-![2](img/Screenshot_2025-02-26_03_22_33.png)
+![image](https://github.com/user-attachments/assets/e5da8c6a-21ba-4cf9-90e8-4dde05266d49)
 
  
  
